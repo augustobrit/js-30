@@ -1,0 +1,36 @@
+# About
+
+This is a repository which would contain my solved challenges from course [30 Day Vanilla JS Coding Challenge](https://javascript30.com/).
+
+## Challenges
+
+- [ ]  Day 1 - [Javascript Drum Kit](https://augustobrit.github.io/js-30/javascript-drum-kit)
+- [ ]  Day 2 - [CSS + JS Clock](https://augustobrit.github.io/js-30/css-js-clock) 
+- [ ]  Day 3 - [Playing With CSS Variables and JS](https://augustobrit.github.io/js-30/playing-with-css-variables-js) 
+- [ ]  Day 4 - [Array Cardio Day 1](https://augustobrit.github.io/js-30/array-cardio-day-one) 
+- [ ]  Day 5 - [Flex Panels Image Gallery](https://augustobrit.github.io/js-30/flex-panels-image-gallery) 
+- [ ]  Day 6 - [AJAX Type Ahead](https://augustobrit.github.io/js-30/ajax-type-ahead) 
+- [ ]  Day 7 - [Array Cardio Day 2](https://augustobrit.github.io/js-30/array-cardio-day-two) 
+- [ ]  Day 8 - [Fun With HTML5 Canvas](https://augustobrit.github.io/js-30/fun-with-html-canvas) 
+- [ ]  Day 9 - [14 Must Know Dev Tools Tricks](https://augustobrit.github.io/js-30/must-know-dev-tricks) 
+- [ ]  Day 10 - [Hold Shift to Check Multiple Checkboxes](https://augustobrit.github.io/js-30/holder-shift-checkboxes) 
+- [ ]  Day 11 - [Custom HTML5 Video Player](https://augustobrit.github.io/js-30/custom-video-player) 
+- [ ]  Day 12 - [Key Sequence detection (KONAMI Code)](https://augustobrit.github.io/js-30/konami-code) 
+- [ ]  Day 13 - [Slide in on Scroll](https://augustobrit.github.io/js-30/slide-in-on-scroll) 
+- [ ]  Day 14 - [Object and Arrays - Reference vs Copy](https://augustobrit.github.io/js-30/reference-vs-copy) 
+- [ ]  Day 15 - [Localstorage and Event Delegation](https://augustobrit.github.io/js-30/localstorage-event-delegation) 
+- [ ]  Day 16 - [CSS Text Shadow Mouse Move Effect](https://augustobrit.github.io/js-30/css-txt-shadow)  
+- [ ]  Day 17 - [Sorting Band Names Without Articles](https://augustobrit.github.io/js-30/sorting-band-names) 
+- [ ]  Day 18 - [Tally String Times With Reduce](https://augustobrit.github.io/js-30/tally-string-times) 
+- [ ]  Day 19 - [Unreal Webcam Fun](https://augustobrit.github.io/js-30/unreal-webcam-fun) 
+- [ ]  Day 20 - [Native Speech Recognition](https://augustobrit.github.io/js-30/native-speech-recog)  
+- [ ]  Day 21 - [Geolocation-based Speedometer and Compass](https://augustobrit.github.io/js-30/geolocation-speedometer-compass) 
+- [ ]  Day 22 - [Follow along Links](https://augustobrit.github.io/js-30/follow-along-links) 
+- [ ]  Day 23 - [Speech Synthesis](https://augustobrit.github.io/js-30/speech-synth) 
+- [ ]  Day 24 - [Sticky Nav](https://augustobrit.github.io/js-30/sticky-nav) 
+- [ ]  Day 25 - [Event Capture, Propagation, Bubbling and Once](https://augustobrit.github.io/js-30/event-captura-propagation)
+- [ ]  Day 26 - [Stripe Follow along Dropdown](https://augustobrit.github.io/js-30/stripe-follow-along) 
+- [ ]  Day 27 - [Click and Drag to Scroll](https://augustobrit.github.io/js-30/click-drag-scroll) 
+- [ ]  Day 28 - [Video Speed Controller UI](https://augustobrit.github.io/js-30/video-speed-controller) 
+- [ ]  Day 29 - [Countdown Clock](https://augustobrit.github.io/js-30/countdown-clock) 
+- [ ]  Day 30 - [Whack a Mole Game](https://augustobrit.github.io/js-30/whack-mole-game) 
