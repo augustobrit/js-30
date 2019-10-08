@@ -4,7 +4,7 @@ This is a repository which would contain my solved challenges from course [30 Da
 
 ## Challenges
 
-- [ ] Day 1 - [Javascript Drum Kit](https://augustobrit.github.io/js-30/javascript-drum-ki/index.htmlt)
+- [ ] Day 1 - [Javascript Drum Kit](https://augustobrit.github.io/js-30/javascript-drum-kit/index.html)
 - [ ] Day 2 - [CSS + JS Clock](https://augustobrit.github.io/js-30/css-js-clock/index.html)
 - [ ] Day 3 - [Playing With CSS Variables and JS](https://augustobrit.github.io/js-30/playing-with-css-variables-js/index.html)
 - [ ] Day 4 - [Array Cardio Day 1](https://augustobrit.github.io/js-30/array-cardio-day-one/index.html)
