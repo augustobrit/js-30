@@ -30,7 +30,7 @@ body {
   height: 100px;
 }
 
-.key-container div + div {
+.key-container div+div {
   margin-left: 10px;
 }
 
@@ -46,6 +46,12 @@ body {
   background-color: var(--secondary);
   cursor: pointer;
   transition: border ease-in-out 100ms;
+  transition: all ease-in-out 100ms;
+
+}
+
+.playing {
+  transform: translateY(-10px);
 }
 
 .key:hover {
